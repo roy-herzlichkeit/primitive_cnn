@@ -1,0 +1,107 @@
+{
+  "version": 4,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 20,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "default",
+      "displayName": "Default GPU Build",
+      "generator": "Visual Studio 18 2026",
+      "architecture": {
+        "value": "x64"
+      },
+      "toolset": "cuda=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.2",
+      "environment": {
+        "TMP": "${sourceDir}/.tmp",
+        "TEMP": "${sourceDir}/.tmp"
+      },
+      "binaryDir": "${sourceDir}/build/default",
+      "cacheVariables": {
+        "NN_ENABLE_TESTS": "ON",
+        "NN_BUILD_BRAIN_MRI": "ON",
+        "NN_BUILD_BENCHMARKS": "ON",
+        "NN_ENABLE_CUDA": "ON",
+        "NN_FORCE_CPU": "OFF"
+      }
+    },
+    {
+      "name": "cpu-no-opencv",
+      "displayName": "CPU Build without OpenCV",
+      "generator": "Visual Studio 18 2026",
+      "architecture": {
+        "value": "x64"
+      },
+      "environment": {
+        "TMP": "${sourceDir}/.tmp",
+        "TEMP": "${sourceDir}/.tmp"
+      },
+      "binaryDir": "${sourceDir}/build/cpu-no-opencv",
+      "cacheVariables": {
+        "NN_ENABLE_TESTS": "ON",
+        "NN_BUILD_BRAIN_MRI": "OFF",
+        "NN_BUILD_BENCHMARKS": "ON",
+        "NN_ENABLE_CUDA": "OFF",
+        "NN_FORCE_CPU": "ON"
+      }
+    },
+    {
+      "name": "cuda-ready",
+      "displayName": "CUDA-Ready Build (future kernels)",
+      "generator": "Visual Studio 18 2026",
+      "architecture": {
+        "value": "x64"
+      },
+      "toolset": "cuda=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.2",
+      "environment": {
+        "TMP": "${sourceDir}/.tmp",
+        "TEMP": "${sourceDir}/.tmp"
+      },
+      "binaryDir": "${sourceDir}/build/cuda-ready",
+      "cacheVariables": {
+        "NN_ENABLE_TESTS": "ON",
+        "NN_BUILD_BRAIN_MRI": "ON",
+        "NN_BUILD_BENCHMARKS": "ON",
+        "NN_ENABLE_CUDA": "ON",
+        "NN_FORCE_CPU": "OFF"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "default",
+      "configurePreset": "default",
+      "configuration": "Debug"
+    },
+    {
+      "name": "cpu-no-opencv",
+      "configurePreset": "cpu-no-opencv",
+      "configuration": "Debug"
+    },
+    {
+      "name": "cuda-ready",
+      "configurePreset": "cuda-ready",
+      "configuration": "Debug"
+    }
+  ],
+  "testPresets": [
+    {
+      "name": "default",
+      "configurePreset": "default",
+      "configuration": "Debug",
+      "output": {
+        "outputOnFailure": true
+      }
+    },
+    {
+      "name": "cuda-ready",
+      "configurePreset": "cuda-ready",
+      "configuration": "Debug",
+      "output": {
+        "outputOnFailure": true
+      }
+    }
+  ]
+}

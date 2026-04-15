@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+
+jobs:
+  build-and-test:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+
+    runs-on: ${{ matrix.os }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure (CPU-only, no OpenCV)
+        run: >
+          cmake -S . -B build/ci
+          -DNN_ENABLE_TESTS=ON
+          -DNN_ENABLE_CUDA=OFF
+          -DNN_FORCE_CPU=ON
+          -DNN_BUILD_BRAIN_MRI=OFF
+          -DNN_BUILD_BRAIN_MRI_PGM=ON
+          -DNN_BUILD_BENCHMARKS=ON
+          -DCMAKE_BUILD_TYPE=Release
+
+      - name: Build
+        run: cmake --build build/ci --config Release --parallel
+
+      - name: Test
+        run: ctest --test-dir build/ci --build-config Release --output-on-failure
