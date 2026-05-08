@@ -56,7 +56,7 @@ venv/
 
 # Project runtime data and local artifacts
 .tmp/
-checkpoints/*.ckpt
+# checkpoints/*.ckpt
 checkpoints/*.bin
 data/brain_mri_pgm/
 data/brain_mri_pgm_256/

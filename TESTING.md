@@ -10,7 +10,7 @@ This document provides step-by-step instructions for testing the brain MRI model
    cmake --build --preset default --config Release --target brain_mri_pgm
    ```
 
-2. **Checkpoint available:** Ensure `checkpoints/brain_mri_hybrid.ckpt` exists (pre-trained model).
+2. **Checkpoint available:** Ensure `checkpoints/brain_mri.ckpt` exists (pre-trained model).
 
 3. **Test images available:** Images in `data/brain_mri_pgm/` directory (preprocessed as `.pgm` files).
 
@@ -20,7 +20,7 @@ Run inference on a tumor image:
 
 ```bash
 ./build/default/Release/brain_mri_pgm.exe \
-  --load checkpoints/brain_mri_hybrid.ckpt \
+  --load checkpoints/brain_mri.ckpt \
   --infer-only \
   --size 64 \
   --image data/brain_mri_pgm/yes/000002_Y100.pgm
@@ -30,7 +30,7 @@ Run inference on a non-tumor image:
 
 ```bash
 ./build/default/Release/brain_mri_pgm.exe \
-  --load checkpoints/brain_mri_hybrid.ckpt \
+  --load checkpoints/brain_mri.ckpt \
   --infer-only \
   --size 64 \
   --image data/brain_mri_pgm/no/000001_N100.pgm
