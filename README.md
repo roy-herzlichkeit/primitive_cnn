@@ -138,7 +138,7 @@ cmake --preset default -DNN_BUILD_BRAIN_MRI=OFF -DNN_BUILD_BRAIN_MRI_PGM=ON -DNN
 cmake --build --preset default --config Release --target brain_mri_pgm
 
 ./build/default/Release/brain_mri_pgm.exe --train-manifest data/brain_mri_pgm/train_manifest.txt --test-manifest data/brain_mri_pgm/test_manifest.txt --size 64 --epochs 10 --lr 0.01 --save checkpoints/brain_mri_hybrid.ckpt
-./build/default/Release/brain_mri_pgm.exe --load checkpoints/brain_mri_hybrid.ckpt --infer-only --size 64 --image data/brain_mri_pgm/single_image.pgm
+./build/default/Release/brain_mri_pgm.exe --load checkpoints/brain_mri_hybrid.ckpt --infer-only --size 64 --image data/brain_mri_pgm/yes/000002_Y100.pgm
 ```
 
 Expected startup line when CUDA is active:
@@ -146,6 +146,8 @@ Expected startup line when CUDA is active:
 ```text
 Backend (conv/dense): GPU/GPU (auto)
 ```
+
+**Important on Windows:** All file paths in command-line arguments are automatically normalized to forward slashes (`/`). Both `data\brain_mri` and `data/brain_mri` work correctly—the application handles the conversion internally.
 
 If you want CPU fallback for troubleshooting, add `--cpu` to `brain_mri_pgm.exe` commands.
 

@@ -436,6 +436,15 @@ static double evaluate_binary(
     return 100.0 * static_cast<double>(correct) / static_cast<double>(test.x.size());
 }
 
+static std::string normalize_path(const std::string& path) {
+    std::string result = path;
+    for (auto& ch : result) {
+        if (ch == '\\')
+            ch = '/';
+    }
+    return result;
+}
+
 static Config parse_args(int argc, char** argv) {
     Config c;
 
@@ -443,11 +452,11 @@ static Config parse_args(int argc, char** argv) {
         const std::string arg = argv[i];
 
         if (arg == "--train-manifest" && i + 1 < argc) {
-            c.train_manifest = argv[++i];
+            c.train_manifest = normalize_path(argv[++i]);
         } else if (arg == "--test-manifest" && i + 1 < argc) {
-            c.test_manifest = argv[++i];
+            c.test_manifest = normalize_path(argv[++i]);
         } else if (arg == "--image" && i + 1 < argc) {
-            c.image_path = argv[++i];
+            c.image_path = normalize_path(argv[++i]);
             c.has_image = true;
         } else if (arg == "--size" && i + 1 < argc) {
             c.image_size = std::atoi(argv[++i]);
@@ -456,10 +465,10 @@ static Config parse_args(int argc, char** argv) {
         } else if (arg == "--lr" && i + 1 < argc) {
             c.learning_rate = std::atof(argv[++i]);
         } else if (arg == "--save" && i + 1 < argc) {
-            c.save_path = argv[++i];
+            c.save_path = normalize_path(argv[++i]);
             c.save_checkpoint = true;
         } else if (arg == "--load" && i + 1 < argc) {
-            c.load_path = argv[++i];
+            c.load_path = normalize_path(argv[++i]);
             c.load_checkpoint = true;
         } else if (arg == "--infer-only" || arg == "--infer_only" || arg == "--infer") {
             c.infer_only = true;
