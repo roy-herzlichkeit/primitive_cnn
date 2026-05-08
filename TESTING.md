@@ -182,50 +182,44 @@ Example output:
 Test Accuracy: 92.5%
 ```
 
-## Distribution: Sharing the Model as ZIP
+## Distribution: Inference Package
 
-If you want to send this project to a friend for inference-only testing, follow this guide.
-
-### ZIP Structure
-
-Include the following in your ZIP file:
+### ZIP Package Contents
 
 ```
 project/
 ├── build/default/Release/
 │   └── brain_mri_pgm.exe
 ├── checkpoints/
-│   └── brain_mri_hybrid.ckpt  (add your pre-trained checkpoint here)
+│   └── brain_mri_hybrid.ckpt
 ├── data/brain_mri_pgm/
 │   ├── yes/
-│   │   └── *.pgm image files
+│   │   └── *.pgm files
 │   └── no/
-│       └── *.pgm image files
-└── INFERENCE_QUICK_START.txt  (optional: see section below)
+│       └── *.pgm files
+└── README_INFERENCE.txt
 ```
 
-### System Requirements for Your Friend
+### System Requirements
 
-**Option 1: GPU Inference (requires CUDA)**
+**CPU Mode (No External Dependencies):**
 - Windows 10/11
-- NVIDIA GPU with compute capability 7.5 or higher
-- CUDA 13.2 Toolkit installed
-  - Download: https://developer.nvidia.com/cuda-toolkit-archive
+- Use `--cpu` flag for all commands
 
-**Option 2: CPU Inference (recommended—no external dependencies)**
-- Windows 10/11
-- Just add `--cpu` flag to all commands
-- No CUDA, NVIDIA drivers, or GPU required
+**GPU Mode (Requires CUDA):**
+- Windows 10/11  
+- NVIDIA GPU (compute capability 7.5+)
+- CUDA 13.2 Toolkit: https://developer.nvidia.com/cuda-toolkit-archive
 
-### Quick Start for Your Friend
+### Inference Execution
 
-**Extract ZIP and run this command:**
+**Extract and run:**
 
 ```bash
 build\default\Release\brain_mri_pgm.exe --load checkpoints/brain_mri_hybrid.ckpt --infer-only --size 64 --image data/brain_mri_pgm/yes/000002_Y100.pgm --cpu
 ```
 
-**Expected output:**
+**Output:**
 ```
 Mode: infer-only
 Backend (conv/dense): CPU/CPU
@@ -234,43 +228,43 @@ Image probability(tumor=yes): 0.XXXXXX
 Prediction: yes/no
 ```
 
-### Create an Instructions File (Optional)
+### Included Instructions
 
-Add `INFERENCE_QUICK_START.txt` to your ZIP with this content:
+Add `README_INFERENCE.txt` with:
 
 ```
-========================================
-BRAIN MRI MODEL - INFERENCE ONLY
-========================================
+BRAIN MRI MODEL - INFERENCE PACKAGE
+====================================
 
-REQUIREMENTS:
+SYSTEM REQUIREMENTS:
 - Windows 10/11
-- No external dependencies if using --cpu flag
+- CPU mode: No external dependencies
+- GPU mode: CUDA 13.2 required
 
-QUICK START (CPU, no CUDA needed):
+QUICK START:
 1. Extract ZIP
-2. Open Command Prompt in this folder
+2. Open Command Prompt
 3. Run:
    build\default\Release\brain_mri_pgm.exe --load checkpoints/brain_mri_hybrid.ckpt --infer-only --size 64 --image data/brain_mri_pgm/yes/000002_Y100.pgm --cpu
 
-TEST IMAGES:
-- Tumor samples: data/brain_mri_pgm/yes/
-- Normal samples: data/brain_mri_pgm/no/
+TEST DATA:
+- Positive samples: data/brain_mri_pgm/yes/
+- Negative samples: data/brain_mri_pgm/no/
 
-AVAILABLE COMMANDS:
+COMMAND REFERENCE:
 
-Single image inference:
+Single image (CPU):
   build\default\Release\brain_mri_pgm.exe --load checkpoints/brain_mri_hybrid.ckpt --infer-only --size 64 --image data/brain_mri_pgm/yes/000002_Y100.pgm --cpu
 
-GPU inference (requires CUDA 13.2):
+Single image (GPU):
   build\default\Release\brain_mri_pgm.exe --load checkpoints/brain_mri_hybrid.ckpt --infer-only --size 64 --image data/brain_mri_pgm/yes/000002_Y100.pgm
 
-Batch inference on all test images:
+Batch inference:
   build\default\Release\brain_mri_pgm.exe --load checkpoints/brain_mri_hybrid.ckpt --test-manifest data/brain_mri_pgm/test_manifest.txt --infer-only --size 64 --cpu
 ```
 
-## Next Steps
+## Additional Resources
 
-- For training a new model, see [README.md](README.md)
-- For benchmark comparisons, run `./build/default/Release/benchmark_conv2d.exe`
-- To preprocess custom images, use `python tools/preprocess_brain_mri.py`
+- Training workflow: [README.md](README.md)
+- Performance benchmarks: `./build/default/Release/benchmark_conv2d.exe`
+- Custom image preprocessing: `python tools/preprocess_brain_mri.py`
