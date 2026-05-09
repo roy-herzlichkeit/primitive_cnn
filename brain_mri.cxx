@@ -499,7 +499,7 @@ int main(int argc, char** argv) {
                 const Tensor3D x = load_image_tensor(cfg.image_path, cfg.image_size);
                 const Matrix out = forward_binary(conv, reshape, dense1, sig1, dense2, sig2, x);
                 const double p = out[0][0];
-                std::cout << "Arbitrary image probability(tumor=yes): " << p << "\n";
+                std::cout << "Arbitrary image probability: " << p << "\n";
                 std::cout << "Prediction: " << ((p >= 0.5) ? "yes" : "no") << "\n";
             } else {
                 std::cout << "Checkpoint loaded. Provide --image <path> to run inference.\n";
@@ -527,7 +527,7 @@ int main(int argc, char** argv) {
             const Tensor3D x = load_image_tensor(cfg.image_path, cfg.image_size);
             const Matrix out = forward_binary(conv, reshape, dense1, sig1, dense2, sig2, x);
             const double p = out[0][0];
-            std::cout << "Arbitrary image probability(tumor=yes): " << p << "\n";
+            std::cout << "Arbitrary image probability: " << p << "\n";
             std::cout << "Prediction: " << ((p >= 0.5) ? "yes" : "no") << "\n";
         } else if (cfg.infer_only) {
             std::cout << "Checkpoint loaded. Provide --image <path> to run inference.\n";

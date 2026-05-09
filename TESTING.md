@@ -224,7 +224,7 @@ build\default\Release\brain_mri_pgm.exe --load checkpoints/brain_mri_hybrid.ckpt
 Mode: infer-only
 Backend (conv/dense): CPU/CPU
 Loaded checkpoint: checkpoints/brain_mri_hybrid.ckpt
-Image probability(tumor=yes): 0.XXXXXX
+Image probability: 0.XXXXXX
 Prediction: yes/no
 ```
 
