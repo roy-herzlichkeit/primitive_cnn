@@ -1,0 +1,1771 @@
+Running on: "data/brain_mri_pgm/yes/000000_Y1.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.888722
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000001_Y10.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.996408
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000002_Y100.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.948047
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000003_Y101.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998988
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000004_Y102.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.992196
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000005_Y103.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999994
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000006_Y104.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999844
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000007_Y105.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.948003
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000008_Y106.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.992915
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000009_Y107.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000163201
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000010_Y108.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.993315
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000011_Y109.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.993004
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000012_Y11.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.994384
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000013_Y111.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.965828
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000014_Y112.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.994667
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000015_Y113.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999976
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000016_Y114.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.93023
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000017_Y115.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.877907
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000018_Y116.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.995175
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000019_Y117.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998268
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000020_Y12.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.993101
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000021_Y120.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.995996
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000022_Y13.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.993442
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000023_Y14.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.994265
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000024_Y146.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998902
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000025_Y147.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998613
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000026_Y148.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.986263
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000027_Y15.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.996339
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000028_Y153.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.947896
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000029_Y154.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.997018
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000030_Y155.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999988
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000031_Y156.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.992904
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000032_Y157.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.980349
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000033_Y158.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999237
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000034_Y159.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999093
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000035_Y16.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999748
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000036_Y160.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.720673
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000037_Y161.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.973553
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000038_Y162.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.993315
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000039_Y163.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.991418
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000040_Y164.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.971368
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000041_Y165.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998573
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000042_Y166.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.98103
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000043_Y167.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.995155
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000044_Y168.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.995057
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000045_Y169.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.993442
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000046_Y17.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.994265
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000047_Y170.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999968
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000048_Y18.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.981015
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000049_Y180.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999971
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000050_Y181.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.996339
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000051_Y182.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.996001
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000052_Y183.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999821
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000053_Y184.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.97734
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000054_Y185.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999145
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000055_Y186.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.887583
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000056_Y187.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999715
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000057_Y188.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.96003
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000058_Y19.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.99776
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000059_Y192.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999667
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000060_Y193.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.993813
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000061_Y194.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.984904
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000062_Y195.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.991509
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000063_Y2.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.886419
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000064_Y20.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999606
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000065_Y21.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.99855
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000066_Y22.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998745
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000067_Y23.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0260657
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000068_Y24.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0104254
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000069_Y242.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.996775
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000070_Y243.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998748
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000071_Y244.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998028
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000072_Y245.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.928396
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000073_Y246.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998246
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000074_Y247.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.451002
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000075_Y248.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.930999
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000076_Y249.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.982978
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000077_Y25.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.993175
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000078_Y250.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999702
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000079_Y251.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999267
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000080_Y252.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.419849
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000081_Y253.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999868
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000082_Y254.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.99911
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000083_Y255.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999763
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000084_Y256.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.14334
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000085_Y257.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.996411
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000086_Y258.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.649147
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000087_Y259.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.245129
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000088_Y26.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.997326
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000089_Y27.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.992521
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000090_Y28.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.967214
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000091_Y29.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.971326
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000092_Y3.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.989814
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000093_Y30.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999637
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000094_Y31.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999191
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000095_Y32.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999963
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000096_Y33.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000163201
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000097_Y34.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.996339
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000098_Y35.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.9913
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000099_Y36.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.99384
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000100_Y37.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.996408
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000101_Y38.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999637
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000102_Y39.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999794
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000103_Y4.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.99686
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000104_Y40.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.983922
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000105_Y41.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999227
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000106_Y42.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998257
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000107_Y44.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999735
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000108_Y45.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.980321
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000109_Y46.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.974055
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000110_Y47.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.877039
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000111_Y49.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.974091
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000112_Y50.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999241
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000113_Y51.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999876
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000114_Y52.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.992389
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000115_Y53.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.994231
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000116_Y54.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999637
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000117_Y55.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.992847
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000118_Y56.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999019
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000119_Y58.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998359
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000120_Y59.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999931
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000121_Y6.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.992593
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000122_Y60.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.992645
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000123_Y61.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999397
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000124_Y62.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999191
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000125_Y65.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.995694
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000126_Y66.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.980524
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000127_Y67.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.897368
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000128_Y69.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.993175
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000129_Y7.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.964986
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000130_Y70.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999637
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000131_Y71.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.997884
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000132_Y73.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.99969
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000133_Y74.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.992847
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000134_Y75.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999855
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000135_Y76.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.993248
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000136_Y77.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.981964
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000137_Y78.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.17758
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000138_Y79.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.997018
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000139_Y8.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.99155
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000140_Y81.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.994843
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000141_Y82.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999965
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000142_Y85.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999994
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000143_Y86.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.151805
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000144_Y89.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.979817
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000145_Y9.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.971383
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000146_Y90.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00146687
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000147_Y91.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.998429
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000148_Y92.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999739
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000149_Y92.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999656
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000150_Y95.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.893006
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000151_Y96.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.995993
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000152_Y97.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.986987
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000153_Y98.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999858
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/yes/000154_Y99.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.999999
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000155_1 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.61256e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000156_10 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000806705
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000157_11 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000173462
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000158_12 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00112341
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000159_13 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.43094e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000160_14 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 5.20193e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000161_15 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0104116
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000162_17 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 5.95039e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000163_18 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00500328
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000164_19 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00159463
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000165_2 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.6613e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000166_20 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0692011
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000167_21 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000685868
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000168_22 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00785532
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000169_23 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0041435
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000170_24 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.924916
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000171_25 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00026891
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000172_26 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00144771
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000173_27 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 5.95039e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000174_28 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0152721
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000175_29 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00492234
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000176_3 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00374043
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000177_30 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0720188
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000178_31 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00570015
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000179_32 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000447258
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000180_33 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0810232
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000181_34 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00392328
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000182_35 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.04145e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000183_36 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00384005
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000184_37 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000309551
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000185_38 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00292166
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000186_39 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 2.82205e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000187_4 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0240322
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000188_40 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00252578
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000189_41 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00252578
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000190_42 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.43094e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000191_43 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 3.97441e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000192_44no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00433784
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000193_45 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0165807
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000194_46 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00013253
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000195_47 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.4425e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000196_48 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000145983
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000197_49 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.38172e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000198_5 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 5.72793e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000199_50 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 4.67719e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000200_6 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.32572e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000201_7 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.44146e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000202_8 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00292166
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000203_9 no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000806705
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000204_N1.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0320278
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000205_N11.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000555511
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000206_N15.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0115562
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000207_N16.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000106664
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000208_N17.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000124559
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000209_N19.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 8.48022e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000210_N2.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.453414
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000211_N20.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.128699
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000212_N21.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0224879
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000213_N22.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00178311
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000214_N26.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0163612
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000215_N3.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00256372
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000216_N5.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0240322
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000217_N6.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.619172
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000218_no 1.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.38172e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000219_no 10.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000396758
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000220_no 100.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.78342e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000221_no 2.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000353947
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000222_no 3.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.115024
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000223_no 4.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00256372
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000224_no 5.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.81298e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000225_no 6.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0958039
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000226_no 7.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 2.39688e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000227_no 8.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.95193e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000228_no 89.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 2.30294e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000229_no 9.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00015358
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000230_no 90.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000324677
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000231_no 91.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00890757
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000232_no 92.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0591358
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000233_no 923.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00145733
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000234_no 94.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.61256e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000235_no 95.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.145132
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000236_no 96.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 4.89567e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000237_no 97.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.49735e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000238_no 98.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 7.97118e-05
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000239_no 99.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.746184
+Prediction: yes
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000240_no.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00208402
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000241_No11.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 2.39688e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000242_No12.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0120146
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000243_No13.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0209218
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000244_No14.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 1.08493e-06
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000245_No15.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0114922
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000246_No16.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0893394
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000247_No17.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0114922
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000248_No18.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.000818844
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000249_No19.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0209806
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000250_No20.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.0504022
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000251_No21.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00803743
+Prediction: no
+-----------------------------------
+Running on: "data/brain_mri_pgm/no/000252_No22.pgm"
+Mode: infer-only
+Backend (conv/dense): CPU/CPU (auto)
+Loaded checkpoint: checkpoints/brain_mri.ckpt
+Image probability(tumor=yes): 0.00455636
+Prediction: no
+-----------------------------------

@@ -1,0 +1,18 @@
+Brain MRI Classification Results Summary
+
+Confusion Matrix TP (Actual Yes -> Predicted Yes): 144 FN (Actual Yes ->
+Predicted No): 11 FP (Actual No -> Predicted Yes): 3 TN (Actual No ->
+Predicted No): 95
+
+Metrics Accuracy: 94.47% Precision (PPV): 97.96% Recall / Sensitivity:
+92.90% F1 Score: 95.36% Specificity (True Negative Rate): 96.94% False
+Positive Rate (FPR): 3.06% False Negative Rate (FNR): 7.10% Negative
+Predictive Value (NPV): 89.62% Balanced Accuracy: 94.92%
+
+False Negative Files (Actual = yes, Predicted = no) 1. 000009_Y107.pgm
+2. 000067_Y23.pgm 3. 000068_Y24.pgm 4. 000074_Y247.pgm 5.
+000080_Y252.pgm 6. 000084_Y256.pgm 7. 000087_Y259.pgm 8. 000096_Y33.pgm
+9. 000137_Y78.pgm 10. 000143_Y86.pgm 11. 000146_Y90.pgm
+
+False Positive Files (Actual = no, Predicted = yes) 1. 000170_24 no.pgm
+2. 000217_N6.pgm 3. 000239_no 99.pgm
